@@ -39,7 +39,7 @@ All of the footage presented here are produced from *earlier builds* of ASN—as
 
 ### Ricochet System
 
-<video src="README_assets/ASN_RicochetSys.webm" width="640" height="360" autoplay loop></video>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys.webp" width="640" height="360" autoplay loop></img>
 
 Performing the Axle Homing Shot will send you straight into the Ricochet System.
 Inputs for each Axle Ricochet bounce are as follows:
@@ -48,7 +48,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 (*UI = Unique Input)
 
-<video src="README_assets/ASN_RicochetSys-Lv1.webm" width="427" height="240" autoplay loop></video>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv1.webp" width="427" height="240" autoplay loop></img>
 
 - Y / Triangle = 1st UI Flying Double Punch
 
@@ -70,7 +70,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 (*UI = Unique Input)
 
-<video src="README_assets/ASN_RicochetSys-Lv2.webm" width="427" height="240" autoplay loop></video>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv2.webp" width="427" height="240" autoplay loop></img>
 
 - Y / Triangle = 1st UI Shooting Star
 
@@ -100,7 +100,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 (*UI = Unique Input)
 
-<video src="README_assets/ASN_RicochetSys-Lv3.webm" width="427" height="240" autoplay loop></video>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv3.webp" width="427" height="240" autoplay loop></img>
 
 - Y / Triangle = Axle Dive Lv. 2
 
@@ -135,7 +135,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 ### Axle Traversal System
 
-<video src="README_assets/ASN_TraversalSys1.webm" width="640" height="360" autoplay loop></video>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys1.webp" width="640" height="360" autoplay loop></img>
 
 If the Axle Homing Shot ever misses its foe(s), or if you see a slide on the ground...
 You can expect to go into the Axle Traversal System (ATS).
@@ -182,7 +182,7 @@ You can expect to go into the Axle Traversal System (ATS).
     
     - Unfortunately, that is one of many weird quirks with Sonic Unleashed I wish we could do without LOL.
   
-  <video src="README_assets/ASN_TraversalSys2.webm" width="427" height="240" autoplay loop></video>
+  <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys2.webp" width="427" height="240" autoplay loop></img>
 
 - The Axle Slide in of itself also has a few options for the X / Square, Y / Triangle, and B / Cross inputs:
   
@@ -203,7 +203,7 @@ You can expect to go into the Axle Traversal System (ATS).
 **While in the Axle Traversal System [ATS], here's how you can go into the Ricochet System from there:**
 (The following must be done during an *Axle Slash*, which is "X / Square, Y / Triangle, or B / Circle" after doing an Axle Jump)
 
-<video src="README_assets/ASN_TraversalSys-Combos3.webm" width="427" height="240" autoplay loop></video>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos3.webp" width="427" height="240" autoplay loop></img>
 
 - Pressing "A / Cross" during the Axle Slash leads to an Axle Homing Shot.
   
@@ -215,7 +215,7 @@ You can expect to go into the Axle Traversal System (ATS).
       
       - RK: X*-X-X-B / Sqr >> Sqr >> Sqr >> Circ
       
-      <video src="README_assets/ASN_TraversalSys-Combos1.webm" width="320" height="180" autoplay loop></video>
+      <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos1.webp" width="320" height="180" autoplay loop></img>
   
   - Pressing "A / Cross" (Axle Dive) or "B / Circle" (Ricochet Kick) after the 2nd UI of Rising Sweep will get you into Axle Ricochet, if connected.
     
@@ -227,7 +227,7 @@ You can expect to go into the Axle Traversal System (ATS).
       
       - RK: Y*-Y-Y-B / Tri >> Tri >> Tri >> Circ
       
-      <video src="README_assets/ASN_TraversalSys-Combos2.webm" width="320" height="180" autoplay loop></video>
+      <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos2.webp" width="320" height="180" autoplay loop></img>
   
   - Pressing "B / Circle" after the Axle Slash will activate the Ricochet Kick—if it connects, you will be in Axle Ricochet.
 
@@ -235,7 +235,7 @@ You can expect to go into the Axle Traversal System (ATS).
 
 ### Lesser Unleash State & Greater Unleash State
 
-<video src="README_assets/ASN_LesserGreaterUnleash-2.webm" width="640" height="360" autoplay loop></video>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_LesserGreaterUnleash-2.webp" width="640" height="360" autoplay loop></img>
 
 Now, when going into Unleash Mode, there are two states to concern yourself with: Lesser & Greater Unleash.
 
@@ -243,7 +243,7 @@ Simply put:
 
 - <u>*Lesser Unleash*</u> is slower, yet has access to Axle Traversal combos that CAN send you into Greater Unleash.
   
-  <video src="README_assets/ASN_LesserGreaterUnleash-1.webm" width="427" height="240" autoplay loop></video>
+  <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_LesserGreaterUnleash-1.webp" width="427" height="240" autoplay loop></img>
   
   - Axle Homing Shot Mode, after **on-hit Ricochet:**
     
@@ -290,7 +290,7 @@ Simply put:
 
 - <u>***Greater Unleash***</u> is *VERY* fast, very easy to lose & has no access to Axle Traversal attacks.
   
-  <video src="README_assets/ASN_LesserGreaterUnleash-3.webm" width="427" height="240" autoplay loop></video>
+  <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_LesserGreaterUnleash-3.webp" width="427" height="240" autoplay loop></img>
   
   - Axle Homing Shot Mode, after <u>**on-hit State Switch Kick**</u>:
     
