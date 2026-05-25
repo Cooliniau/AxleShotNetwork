@@ -182,7 +182,7 @@ You can expect to go into the Axle Traversal System (ATS).
     
     - Unfortunately, that is one of many weird quirks with Sonic Unleashed I wish we could do without LOL.
   
-  <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys2.webp" width="427" height="240" autoplay loop></img>
+  <img title="" src="README_assets/1d9b7f84d3bf30053943618ce361f05b9e96db74.webp" alt="" width="427" height="240">
 
 - The Axle Slide in of itself also has a few options for the X / Square, Y / Triangle, and B / Cross inputs:
   
@@ -235,7 +235,7 @@ You can expect to go into the Axle Traversal System (ATS).
 
 ### Lesser Unleash State & Greater Unleash State
 
-<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_LesserGreaterUnleash-2.webp" width="640" height="360" autoplay loop></img>
+<img title="" src="README_assets/36ce8e9f76dc80a86eee2a2fa31d8ccbd42d2f29.webp" alt="" width="640" height="360">
 
 Now, when going into Unleash Mode, there are two states to concern yourself with: Lesser & Greater Unleash.
 
@@ -243,7 +243,7 @@ Simply put:
 
 - <u>*Lesser Unleash*</u> is slower, yet has access to Axle Traversal combos that CAN send you into Greater Unleash.
   
-  <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_LesserGreaterUnleash-1.webp" width="427" height="240" autoplay loop></img>
+  <img title="" src="README_assets/4b3727dc4b93ae96bae3940e6589d62bf1de66b3.webp" alt="" width="427" height="240">
   
   - Axle Homing Shot Mode, after **on-hit Ricochet:**
     
@@ -290,7 +290,7 @@ Simply put:
 
 - <u>***Greater Unleash***</u> is *VERY* fast, very easy to lose & has no access to Axle Traversal attacks.
   
-  <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_LesserGreaterUnleash-3.webp" width="427" height="240" autoplay loop></img>
+  <img title="" src="README_assets/842e37f2013d09222781fd679360876cd0b951de.webp" alt="" width="427" height="240">
   
   - Axle Homing Shot Mode, after <u>**on-hit State Switch Kick**</u>:
     
