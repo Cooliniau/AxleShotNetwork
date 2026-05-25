@@ -203,7 +203,7 @@ You can expect to go into the Axle Traversal System (ATS).
 **While in the Axle Traversal System [ATS], here's how you can go into the Ricochet System from there:**
 (The following must be done during an *Axle Slash*, which is "X / Square, Y / Triangle, or B / Circle" after doing an Axle Jump)
 
-<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos3.webp" width="427" height="240" autoplay loop></img>
+<img title="" src="README_assets/d0fed86da349c59558698e2f6588c43914e07233.webp" alt="" width="427" height="240">
 
 - Pressing "A / Cross" during the Axle Slash leads to an Axle Homing Shot.
   
