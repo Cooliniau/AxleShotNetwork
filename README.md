@@ -48,7 +48,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 (*UI = Unique Input)
 
-<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv1.webp" width="427" height="240" autoplay loop></img>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv1.webp" width="427" height="240" autoplay loop>
 
 - Y / Triangle = 1st UI Flying Double Punch
 
@@ -70,7 +70,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 (*UI = Unique Input)
 
-<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv2.webp" width="427" height="240" autoplay loop></img>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv2.webp" width="427" height="240" autoplay loop>
 
 - Y / Triangle = 1st UI Shooting Star
 
@@ -100,7 +100,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 (*UI = Unique Input)
 
-<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv3.webp" width="427" height="240" autoplay loop></img>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_RicochetSys-Lv3.webp" width="427" height="240" autoplay loop>
 
 - Y / Triangle = Axle Dive Lv. 2
 
@@ -135,7 +135,7 @@ Inputs for each Axle Ricochet bounce are as follows:
 
 ### Axle Traversal System
 
-<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys1.webp" width="640" height="360" autoplay loop></img>
+<img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys1.webp" width="640" height="360" autoplay loop>
 
 If the Axle Homing Shot ever misses its foe(s), or if you see a slide on the ground...
 You can expect to go into the Axle Traversal System (ATS).
@@ -215,7 +215,7 @@ You can expect to go into the Axle Traversal System (ATS).
       
       - RK: X*-X-X-B / Sqr >> Sqr >> Sqr >> Circ
       
-      <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos1.webp" width="320" height="180" autoplay loop></img>
+      <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos1.webp" width="320" height="180" autoplay loop>
   
   - Pressing "A / Cross" (Axle Dive) or "B / Circle" (Ricochet Kick) after the 2nd UI of Rising Sweep will get you into Axle Ricochet, if connected.
     
@@ -227,7 +227,7 @@ You can expect to go into the Axle Traversal System (ATS).
       
       - RK: Y*-Y-Y-B / Tri >> Tri >> Tri >> Circ
       
-      <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos2.webp" width="320" height="180" autoplay loop></img>
+      <img src="https://file.garden/af76ptn7Ry9lYjcB/ASN-GIFs/WEBP/ASN_TraversalSys-Combos2.webp" width="320" height="180" autoplay loop>
   
   - Pressing "B / Circle" after the Axle Slash will activate the Ricochet Kick—if it connects, you will be in Axle Ricochet.
 
