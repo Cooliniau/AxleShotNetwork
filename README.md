@@ -10,7 +10,7 @@ The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made 
 
 <div>
   <figcaption>
-    *Featured in the <a href="https://www.youtube.com/embed/WDx-yhtwyew?rel=0">"SONIC UNLEASHED: Foreign Input System 2nd Anniversary Update"</a> trailer.*
+    <i>Featured in the <a href="https://www.youtube.com/embed/WDx-yhtwyew?rel=0">"SONIC UNLEASHED: Foreign Input System 2nd Anniversary Update"</a> trailer.</i>
   </figcaption>
 </div>
 
