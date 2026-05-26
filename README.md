@@ -9,12 +9,9 @@
 The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made within <u>***Foreign Input System***</u>—which focused on expanding the combo capabilities of the Werehog. These two elements are showcased with the **Ricochet System** & **Axle Traversal System** respectively: the former leading to pinball-esque attacks, and the latter leading to a different means of on-field & in-combat traversal.
 
 <div>
-<figure style="margin-left: 0px;">
-  <p><iframe class="video cinematic-large" width="640" height="360" src="https://www.youtube.com/embed/WDx-yhtwyew?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
   <figcaption style="text-align: left; font-style: italic; margin-top: 8px;">
-    Featured in the "SONIC UNLEASHED: Foreign Input System 2nd Anniversary Update" trailer.
+    Featured in the <a href="https://www.youtube.com/embed/WDx-yhtwyew?rel=0">"SONIC UNLEASHED: Foreign Input System 2nd Anniversary Update"</a> trailer.
   </figcaption>
-</figure>
 </div>
 
 ---
