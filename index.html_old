@@ -1373,7 +1373,6 @@
         border-radius: 0;
       }
 
-      /* For resacable videos across devices */
       .img {
         width: 100%;
         height: 100%;
@@ -1402,29 +1401,6 @@
         width: 320px;
         aspect-ratio: 16 / 9;
         object-fit: contain;
-      }
-
-      /* For easily readable Xbox & PlayStation Gamepad inputs */
-      .i-seq {
-        display: inline-flex;
-        align-items: center;
-        gap: 2px;
-        vertical-align: middle;
-      }
-
-      .i-arw {
-        display: inline-block;
-        vertical-align: middle;
-        position: relative;
-        top: -2.5px;
-      }
-
-      .f-btn {
-        width: 22px;
-        height: 22px;
-        object-fit: contain;
-        image-rendering: smooth;
-        vertical-align: middle;
       }
 
       /*# sourceURL=webpack://./src/renderer/assets/themes/export/liber.theme.css */
@@ -1464,189 +1440,33 @@
       </p>
       <ul>
         <li>
-          <p>Double Axle Combo: 
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <span class="i-arw">→</span>
-              <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-              <span class="i-arw">→</span>
-              <span class="i-arw"><strong>(Hold)&nbsp;</strong></span>
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-            </span>
-          </p>
+          <p>Double Axle Combo: YYY-X-[[A]] </p>
           <ul>
-            <li>PlayStation: 
-              <span class="i-seq">
-                <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                <span class="i-arw">→</span>
-                <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                <span class="i-arw">→</span>
-                <span class="i-arw"><strong>(Hold)&nbsp;</strong></span>
-                <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-              </span>
-            </li>
+            <li>PlayStation: Tri-Tri-Tri &gt;&gt; Sqr &gt;&gt; [[Crs]]</li>
           </ul>
         </li>
         <li>
-          <p>Tricky Tornado Uppercut: 
-            <span class="i-seq">
-              <span class="i-arw">(</span>
-              <img src="README_assets/Xbox_Left_Bumper.svg" class="f-btn" alt="Left Bumper">
-              <span class="i-arw">&nbsp;+&nbsp;</span>
-              <img src="README_assets/Xbox_Left_stick.svg" class="f-btn" alt="Left Stick">
-              <span class="i-arw">&nbsp;<strong>DOWN</strong></span>
-              <span class="i-arw">&nbsp;+&nbsp;</span>
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <span class="i-arw">)</span>
-              <span class="i-arw">→</span>
-              <span class="i-arw"><strong>(Hold)&nbsp;</strong></span>
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-            </span>
-            ; can press 
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-            </span>
-            again to initiate another Axle Homing Shot. 
-          </p>
+          <p>Tricky Tornado Uppercut: (LB + LS Back + Y) -&gt; [[A]]; can press "A / Cross" again to initiate another Axle Homing Shot.</p>
           <ul>
-            <li>PlayStation: 
-              <span class="i-seq">
-                <span class="i-arw">(</span>
-                <img src="README_assets/PlayStation_button_L1.svg" class="f-btn" alt="L1">
-                <span class="i-arw">&nbsp;+&nbsp;</span>
-                <img src="README_assets/PlayStation_button_analog_L.svg" class="f-btn" alt="Left Stick">
-                <span class="i-arw">&nbsp;<strong>DOWN</strong></span>
-                <span class="i-arw">&nbsp;+&nbsp;</span>
-                <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                <span class="i-arw">)</span>
-                <span class="i-arw">→</span>
-                <span class="i-arw"><strong>(Hold)&nbsp;</strong></span>
-                <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-              </span>
-            </li>
+            <li>PlayStation: (R1 + LS Back + Tri) -&gt; [[Crs]]</li>
           </ul>
         </li>
         <li>
-          <p>Unleashed Wild Combo: 
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-              <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-              <span class="i-arw">→</span>
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <span class="i-arw">→</span>
-              <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-              <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-              <span class="i-arw">→</span>
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <span class="i-arw">→</span>
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <span class="i-arw">→</span>
-              <span class="i-arw"><strong>(Hold)&nbsp;</strong></span>
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-            </span>
-            ; can press 
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-            </span>
-            again to initiate another Axle Homing Shot. 
-          </p>
+          <p>Unleashed Wild Combo: XX-YY-XX-Y-[[A]]; can press "A / Cross" again to initiate another Axle Homing Shot.</p>
           <ul>
-            <li>PlayStation: 
-                  <span class="i-seq">
-                  <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                  <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                  <span class="i-arw">→</span>
-                  <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  <span class="i-arw">→</span>
-                  <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                  <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                  <span class="i-arw">→</span>
-                  <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  <span class="i-arw">→</span>
-                  <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  <span class="i-arw">→</span>
-                  <span class="i-arw"><strong>(Hold)&nbsp;</strong></span>
-                  <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                </span>
-              </p>
+            <li>
+              <p>PlayStation: Sqr-Sqr &gt;&gt; Tri-Tri &gt;&gt; Sqr-Sqr &gt;&gt; Tri &gt;&gt; [[Crs]]</p>
             </li>
             <li>
-              <p>If you press 
-                <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">*
-                at
-                <span class="i-seq">
-                  <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">  
-                  <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                  <span class="i-arw">→</span>
-                  <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                  <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                  <span class="i-arw">→</span>
-                  <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                  <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                  <span class="i-arw">→</span>
-                  <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                  <span class="i-arw">→</span>
-                  <span class="i-arw">(</span>
-                  <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                  <span class="i-arw">*</span>
-                  <span class="i-arw">)</span>
-                </span>
-                and miss the early on-hit Multi-Kick, you may be able to go into ASN late.</p>
+              <p>If you press X* at XX-YY-XX-Y-(X*) and miss the early on-hit Multi-Kick, you may be able to go into ASN late.</p>
               <ul>
-                <li>PlayStation: 
-                  <span class="i-seq">
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    <span class="i-arw">*</span>
-                  </span>
-                  at 
-                  <span class="i-seq">
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    <span class="i-arw">→</span>
-                    <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                    <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                    <span class="i-arw">→</span>
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    <span class="i-arw">→</span>
-                    <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                    <span class="i-arw">→</span>
-                    <span class="i-arw">(</span>
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    <span class="i-arw">*</span>
-                    <span class="i-arw">)</span>
-                  </span>
-                </li>
+                <li>PlayStation: Sqr* at Sqr-Sqr &gt;&gt; Tri-Tri &gt;&gt; Sqr-Sqr &gt;&gt; Tri &gt;&gt; (Sqr*)</li>
               </ul>
             </li>
           </ul>
         </li>
         <li>
-          <p>During <em>any</em> Self-Launcher, press 
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-            </span>
-            or 
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-            </span>
-            to do either an Axle Homing Shot or Axle Dive. </p>
+          <p>During <em>any</em> Self-Launcher, press "A / Cross" or "B / Circle" to do either an Axle Homing Shot or Axle Dive. </p>
           <ul>
             <li>Air Level 2 (Self-Launch after a prior Launcher) can only do Axle Dive with both "A" and "B".</li>
           </ul>
@@ -1678,44 +1498,20 @@
       </p>
       <ul>
         <li>
-          <p>
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-            </span>
-            = 1st UI Flying Double Punch</p>
+          <p>Y / Triangle = 1st UI Flying Double Punch</p>
         </li>
         <li>
-          <p>
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-            </span> 
-            = 1st UI Aerial Claw Slash</p>
+          <p>X / Square = 1st UI Aerial Claw Slash</p>
           <ul>
             <li>These first two can lead into the Air Levels, like how FIS handles them.</li>
           </ul>
         </li>
         <li>
-          <p>
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-            </span>
-            = <strong>Altered Typhoon Finisher</strong>
+          <p>A / Cross = <strong>Altered Typhoon Finisher</strong>
           </p>
           <ul>
             <li>
-              <p>Pressing 
-                <span class="i-seq">
-                  <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                  <span class="i-arw">&nbsp;/&nbsp;</span>
-                  <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                </span>
-                again initiates an <u>Axle Dive Lv. 1</u>, and another A press transitions into the Typhoon Finisher; sequence is <strong>
+              <p>Pressing A again initiates an <u>Axle Dive Lv. 1</u>, and another A press transitions into the Typhoon Finisher; sequence is <strong>
                   <em>loopable on-hit</em>
                 </strong>. </p>
             </li>
@@ -1725,13 +1521,7 @@
           </ul>
         </li>
         <li>
-          <p>
-            <span class="i-seq">
-              <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-            </span>
-            = Aerial Rush</p>
+          <p>B / Circle = Aerial Rush</p>
         </li>
       </ul>
       <h5 class="atx" id="ricochet-lv-2---if-you-bounce-twice-on-hit">
@@ -1746,28 +1536,13 @@
       </p>
       <ul>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-          </span>
-          = 1st UI Shooting Star</p>
+          <p>Y / Triangle = 1st UI Shooting Star</p>
         </li>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-          </span>
-          = 1st UI Typhoon</p>
+          <p>X / Square = 1st UI Typhoon</p>
         </li>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-          </span>
-          = <u>
+          <p>A / Cross = <u>
               <strong>Altered Aerial Dive-Kick</strong>
             </u>
           </p>
@@ -1779,36 +1554,16 @@
               <p>Early / Late differences:</p>
               <ul>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  </span>
-                  = 1st UI Rising Sweep (early) / Crescent Moon Strike Finisher (late)</p>
+                  <p>Y / Triangle = 1st UI Rising Sweep (early) / Crescent Moon Strike Finisher (late)</p>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                  </span>
-                  = 1st UI Crossing Windmill (early) / Hurricance Combo Finisher (late)</p>
+                  <p>X / Square = 1st UI Crossing Windmill (early) / Hurricance Combo Finisher (late)</p>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                  </span>
-                  = Altered Typhoon Finisher</p>
+                  <p>A / Cross = Altered Typhoon Finisher</p>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                  </span>
-                  = Ricochet Kick</p>
+                  <p>B / Circle = Ricochet Kick</p>
                 </li>
               </ul>
             </li>
@@ -1818,12 +1573,7 @@
           </ul>
         </li>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-          </span>
-          = Aerial Rush</p>
+          <p>B / Circle = Aerial Rush</p>
         </li>
       </ul>
       <h5 class="atx" id="ricochet-lv-3---if-you-bounce-thrice-on-hit">
@@ -1838,28 +1588,13 @@
       </p>
       <ul>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-          </span>
-          = Axle Dive Lv. 2</p>
+          <p>Y / Triangle = Axle Dive Lv. 2</p>
         </li>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-          </span>
-          = 1st UI Typhoon</p>
+          <p>X / Square = 1st UI Typhoon</p>
         </li>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-          </span>
-          = <u>
+          <p>A / Cross = <u>
               <strong>
                 <em>Axle Homing Shot (Forward)</em>
               </strong>
@@ -1873,31 +1608,13 @@
               <p>That said, if any of your Axle Homing Shots <em>miss</em>, you will pause via Multi-Kick... </p>
               <ul>
                 <li>
-                  <p>The 1st two Multi-Kicks allow you to continue your AHS chain, but pressing 
-                  <span class="i-seq">
-                    <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                  </span>
-                  during the 3rd will activate the <em>Ricochet Kick</em>. Should it connect, you'll re-start the Ricochet System. </p>
+                  <p>The 1st two Multi-Kicks allow you to continue your AHS chain, but pressing A during the 3rd will activate the <em>Ricochet Kick</em>. Should it connect, you'll re-start the Ricochet System. </p>
                 </li>
                 <li>
                   <p>Homing Chain options:</p>
                   <ul>
-                    <li>
-                    <span class="i-seq">
-                      <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    </span>
-                    = Altered Aerial Dive-Kick</li>
-                    <li>
-                    <span class="i-seq">
-                      <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                    </span>
-                    = Flying Double-Punch Crush Finisher <ul>
+                    <li>X / Square = Altered Aerial Dive-Kick</li>
+                    <li>B / Circle = Flying Double-Punch Crush Finisher <ul>
                         <li>Can be useful for stopping the action early...or if you just want to look cool, lol.</li>
                       </ul>
                     </li>
@@ -1906,34 +1623,14 @@
                 <li>
                   <p>Multi-Kick options prior to / on the 3rd:</p>
                   <ul>
-                    <li><span class="i-seq">
-                      <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                    </span>
-                    = Axle Dive Lv. 2 <ul>
+                    <li>Y / Triangle = Axle Dive Lv. 2 <ul>
                         <li>On-hit, you will initiate 2nd Level Ricochet Bounce and its options.</li>
                         <li>On-miss, you will initiate the Uncurled Axle Bound and its options.</li>
                       </ul>
                     </li>
-                    <li><span class="i-seq">
-                      <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    </span>
-                    = 1st UI Typhoon</li>
-                    <li><span class="i-seq">
-                      <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                    </span>
-                    = Continue Axle Homing Shot (prior to 3rd M-K) / Ricochet Kick (on the 3rd M-K)</li>
-                    <li><span class="i-seq">
-                      <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                    </span>
-                    = Aerial Rush</li>
+                    <li>X / Square = 1st UI Typhoon</li>
+                    <li>A / Cross = Continue Axle Homing Shot (prior to 3rd M-K) / Ricochet Kick (on the 3rd M-K)</li>
+                    <li>B / Circle = Aerial Rush</li>
                   </ul>
                 </li>
               </ul>
@@ -1941,12 +1638,7 @@
           </ul>
         </li>
         <li>
-          <p><span class="i-seq">
-            <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-          </span>
-          = Aerial Rush</p>
+          <p>B / Circle = Aerial Rush</p>
         </li>
       </ul>
       <hr>
@@ -1963,12 +1655,7 @@
           <p>ANY time you see a specific type of <u>slide w/ an effect</u>, that is the Axle Slide. </p>
           <ul>
             <li>
-              <p>To initiate the Axle Jump, try pressing <span class="i-seq">
-                <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-              </span>
-              on:</p>
+              <p>To initiate the Axle Jump, try pressing "B / Circle" on:</p>
               <ul>
                 <li>
                   <p>2nd UI Rolling Kick</p>
@@ -1982,12 +1669,7 @@
               </ul>
             </li>
             <li>
-              <p>You can also press <span class="i-seq">
-                <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-              </span>
-              on:</p>
+              <p>You can also press "A / Cross" on:</p>
               <ul>
                 <li>
                   <p>Any of the last 3 inputs of Wild Whirl / Were-Hammer (after Axle Slide)</p>
@@ -2007,23 +1689,13 @@
                 <li>
                   <p>Were-Claw Charge</p>
                   <ul>
-                    <li>Time a Hold <span class="i-seq">
-                      <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                    </span>
-                    press at the beginning to immediately activate.</li>
+                    <li>Time a Hold "A / Cross" press at the beginning to immediately activate.</li>
                   </ul>
                 </li>
                 <li>
                   <p>Triple Wild Claw</p>
                   <ul>
-                    <li>Time a Hold <span class="i-seq">
-                      <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                    </span>
-                    press at the beginning to immediately activate.</li>
+                    <li>Time a Hold "A / Cross" press at the beginning to immediately activate.</li>
                   </ul>
                 </li>
                 <li>
@@ -2039,12 +1711,7 @@
         <li>
           <p>To perform <u>
               <em>Axle Traversal</em>
-            </u>, repeatedly press the <span class="i-seq">
-              <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-              <span class="i-arw">&nbsp;/&nbsp;</span>
-              <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-            </span>
-            button after an Axle Jump—this should lead to a sequence of Axle Kick &gt;&gt; Axle Slide &gt;&gt; Axle Jump &gt;&gt; repeat. </p>
+            </u>, repeatedly press the "A / Cross" button after an Axle Jump—this should lead to a sequence of Axle Kick &gt;&gt; Axle Slide &gt;&gt; Axle Jump &gt;&gt; repeat. </p>
           <ul>
             <li>
               <p>There may be instances during combat / exploration where the Werehog would go into free-fall during the Dive-Kick via sliding off an enemy's model or oddly-sized object collision...</p>
@@ -2059,73 +1726,28 @@
           </p>
         </li>
         <li>
-          <p>The Axle Slide in of itself also has a few options for the <span class="i-seq">
-            <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-          </span>
-          , <span class="i-seq">
-            <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-          </span>
-          , and <span class="i-seq">
-            <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-          </span>
-          inputs:</p>
+          <p>The Axle Slide in of itself also has a few options for the X / Square, Y / Triangle, and B / Circle inputs:</p>
           <ul>
             <li>
-              <p><span class="i-seq">
-                <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-              </span>
-              = 1st UI Rolling Kick</p>
+              <p>Y / Triangle = 1st UI Rolling Kick</p>
             </li>
             <li>
-              <p><span class="i-seq">
-                <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-              </span>
-              = 1st UI Double Kick</p>
+              <p>X / Square = 1st UI Double Kick</p>
             </li>
             <li>
-              <p><span class="i-seq">
-                <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-              </span>
-              = Spinning Were-Clap (moveable)</p>
+              <p>B / Circle = Spinning Were-Clap (moveable)</p>
               <ul>
                 <li>
                   <p>If you also wish to do this move during regular combos...</p>
                   <ul>
                     <li>
-                      <p>Hold <span class="i-seq">
-                        <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                      </span>
-                      around the start of 3rd UI Wild Whirl</p>
+                      <p>Hold "Y / Triangle" around the start of 3rd UI Wild Whirl</p>
                     </li>
                     <li>
-                      <p>Hold <span class="i-seq">
-                        <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                      </span>
-                      during the Rolling Kick Finisher</p>
+                      <p>Hold "Y / Triangle" during the Rolling Kick Finisher</p>
                     </li>
                     <li>
-                      <p>Hold <span class="i-seq">
-                        <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                      </span>
-                      around the ending to 1st UI Double Axle</p>
+                      <p>Hold "Y / Triangle" around the ending to 1st UI Double Axle</p>
                     </li>
                   </ul>
                 </li>
@@ -2135,84 +1757,26 @@
         </li>
       </ul>
       <p>
-        <strong>While in the Axle Traversal System [ATS], here's how you can go into the Ricochet System from there:</strong> (The following must be done during an <em>Axle Slash</em>, which is "xbpsx, xbpy, or xbpb" after doing an Axle Jump)
+        <strong>While in the Axle Traversal System [ATS], here's how you can go into the Ricochet System from there:</strong> (The following must be done during an <em>Axle Slash</em>, which is "X / Square, Y / Triangle, or B / Circle" after doing an Axle Jump)
       </p>
       <p>
         <video class="video cinematic-medium" loop="" autoplay="" height="240" width="427" src="README_assets/ASN_TraversalSys-Combos3.webm"></video>
       </p>
       <ul>
         <li>
-          <p>Pressing <span class="i-seq">
-            <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-            <span class="i-arw">&nbsp;/&nbsp;</span>
-            <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-          </span>
-          during the Axle Slash leads to an Axle Homing Shot.</p>
+          <p>Pressing "A / Cross" during the Axle Slash leads to an Axle Homing Shot.</p>
           <ul>
             <li>
-              <p>Pressing <span class="i-seq">
-                <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-              </span>
-              (Axle Homing Shot / AHS) or <span class="i-seq">
-                <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-              </span>
-              (Ricochet Kick / RK) after the 2nd unique input (UI) of Crossing Windmill will get you into Axle Ricochet, if connected.</p>
+              <p>Pressing "A / Cross" (Axle Homing Shot / AHS) or "B / Circle" (Ricochet Kick / RK) after the 2nd unique input (UI) of Crossing Windmill will get you into Axle Ricochet, if connected.</p>
               <ul>
                 <li>
                   <p>Crossing Windmill (*w/ Axle Slash): </p>
                   <ul>
                     <li>
-                      <p>AHS: 
-                        <span class="i-seq">
-                          <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                        </span>
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <span class="i-seq">
-                          <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                        </span>
+                      <p>AHS: X*-X-X-A / Sqr &gt;&gt; Sqr &gt;&gt; Sqr &gt;&gt; Crs</p>
                     </li>
                     <li>
-                      <p>RK: 
-                        <span class="i-seq">
-                          <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                        </span>
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <span class="i-seq">
-                          <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                        </span>
-                      </p>
+                      <p>RK: X*-X-X-B / Sqr &gt;&gt; Sqr &gt;&gt; Sqr &gt;&gt; Circ</p>
                     </li>
                   </ul>
                   <p>
@@ -2222,77 +1786,19 @@
               </ul>
             </li>
             <li>
-              <p>Pressing <span class="i-seq">
-                <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-              </span>
-              (Axle Dive) or <span class="i-seq">
-                <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-              </span>
-              (Ricochet Kick) after the 2nd UI of Rising Sweep will get you into Axle Ricochet, if connected.</p>
+              <p>Pressing "A / Cross" (Axle Dive) or "B / Circle" (Ricochet Kick) after the 2nd UI of Rising Sweep will get you into Axle Ricochet, if connected.</p>
               <ul>
                 <li>
                   <p>Rising Sweep (*w/ Axle Slash):</p>
                   <ul>
                     <li>
-                      <p>AHS: 
-                        <span class="i-seq">
-                          <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                        </span> 
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <span class="i-seq">
-                          <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                        </span>
+                      <p>AHS: Y*-Y-Y-A / Tri &gt;&gt; Tri &gt;&gt; Tri &gt;&gt; Crs</p>
                       <ul>
-                        <li>Holding <span class="i-seq">
-                          <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                          <span class="i-arw">&nbsp;/&nbsp;</span>
-                          <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                        </span>
-                        during the later part of the 2nd UI leads to Axle Dive Lv. 2</li>
+                        <li>Holding "A" during the later part of the 2nd UI leads to Axle Dive Lv. 2</li>
                       </ul>
                     </li>
                     <li>
-                      <p>RK: 
-                        <span class="i-seq">
-                          <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                        </span>
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <span class="i-seq">
-                          <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                          <span class="i-arw">*</span>
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                          <span class="i-arw">→</span>
-                          <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                        </span>
-                      </p>
+                      <p>RK: Y*-Y-Y-B / Tri &gt;&gt; Tri &gt;&gt; Tri &gt;&gt; Circ</p>
                     </li>
                   </ul>
                   <p>
@@ -2302,12 +1808,7 @@
               </ul>
             </li>
             <li>
-              <p>Pressing <span class="i-seq">
-                <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-              </span>
-              after the Axle Slash will activate the Ricochet Kick—if it connects, you will be in Axle Ricochet.</p>
+              <p>Pressing "B / Circle" after the Axle Slash will activate the Ricochet Kick—if it connects, you will be in Axle Ricochet.</p>
             </li>
           </ul>
         </li>
@@ -2335,28 +1836,13 @@
               </p>
               <ul>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  </span>
-                  = Unleashed Axle Dive Lv. 1</p>
+                  <p>Y / Triangle = Unleashed Axle Dive Lv. 1</p>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                  </span>
-                  = Lesser Axle Shot (Forwards)</p>
+                  <p>A / Cross = Lesser Axle Shot (Forwards)</p>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                  </span>
-                  = State Switch Kick</p>
+                  <p>B / Circle = State Switch Kick</p>
                   <ul>
                     <li>
                       <p>If connected with an enemy, the game will slow down &amp; your Axle Shot options will upgrade in speed (x2).</p>
@@ -2367,20 +1853,10 @@
                   </ul>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                  </span>
-                  = Crossing Windmill</p>
+                  <p>X / Square = Crossing Windmill</p>
                   <ul>
                     <li>
-                      <p>Continuously mashing <span class="i-seq">
-                        <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                        <span class="i-arw">&nbsp;/&nbsp;</span>
-                        <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                      </span>
-                      will lead to a slightly longer Multi-Kick Pause...</p>
+                      <p>Continuously mashing X / Square will lead to a slightly longer Multi-Kick Pause...</p>
                       <ul>
                         <li>
                           <p>During this Pause, <em>ALL buttons</em> lead back to a regular Axle Homing Shot. </p>
@@ -2400,19 +1876,9 @@
               </p>
               <ul>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  </span>
-                  = Rising Sweep</p>
+                  <p>Y / Triangle = Rising Sweep</p>
                   <ul>
-                    <li>Continuously mashing <span class="i-seq">
-                      <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                    </span>
-                    will lead to a slightly longer Multi-Kick Pause... <ul>
+                    <li>Continuously mashing Y will lead to a slightly longer Multi-Kick Pause... <ul>
                         <li>During this Pause, <em>ALL buttons</em> lead back to a regular Axle Homing Shot. </li>
                         <li>If you manage to land this Multi-Kick on an enemy, it leads to the same on-hit outcome as SSK.</li>
                       </ul>
@@ -2420,14 +1886,9 @@
                   </ul>
                 </li>
                 <li>
-                  <p>xbpsx= Crossing Windmill</p>
+                  <p>X / Square = Crossing Windmill</p>
                   <ul>
-                    <li>Continuously mashing <span class="i-seq">
-                      <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                      <span class="i-arw">&nbsp;/&nbsp;</span>
-                      <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                    </span>
-                    will lead to a slightly longer Multi-Kick Pause... <ul>
+                    <li>Continuously mashing X will lead to a slightly longer Multi-Kick Pause... <ul>
                         <li>During this Pause, <em>ALL buttons</em> lead back to a regular Axle Homing Shot. </li>
                         <li>If you manage to land this Multi-Kick on an enemy, it leads to the same on-hit outcome as SSK.</li>
                       </ul>
@@ -2435,20 +1896,10 @@
                   </ul>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                  </span>
-                  = Lesser Axle Shot (Forwards)</p>
+                  <p>A / Cross = Lesser Axle Shot (Forwards)</p>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                  </span>
-                  = State Switch Kick</p>
+                  <p>B / Circle = State Switch Kick</p>
                   <ul>
                     <li>Is less steep in verticality &amp; slower than Greater Unleash Kick.</li>
                     <li>If connected with an enemy, the game will slow down temporarily (not always constant if you're fast enough) &amp; your Axle Shot options will upgrade in 2x speed.</li>
@@ -2478,24 +1929,14 @@
                 </u>: </p>
               <ul>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_Y.svg" class="f-btn" alt="Y">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_T.svg" class="f-btn" alt="Triangle">
-                  </span>
-                  = Unleashed Axle Dive Lv. 2</p>
+                  <p>Y / Triangle = Unleashed Axle Dive Lv. 2</p>
                   <ul>
                     <li>Has a camera &amp; game speed indicator on-hit.</li>
                     <li>Hitting Y activates the 2nd UI of Rising Sweep, saving an extra input.</li>
                   </ul>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-                  </span>
-                  = Greater Unleash Kick</p>
+                  <p>X / Square = Greater Unleash Kick</p>
                   <ul>
                     <li>Is steeper in verticality &amp; faster than the State Switch Kick.</li>
                     <li>If connected with an enemy, you will maintain Greater Unleash w/ no slo-mo (has camera zoom out for indication).</li>
@@ -2503,35 +1944,15 @@
                   </ul>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_A.svg" class="f-btn" alt="A">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_X.svg" class="f-btn" alt="Cross">
-                  </span>
-                  = Greater Axle Shot (Forwards)</p>
+                  <p>A / Cross = Greater Axle Shot (Forwards)</p>
                 </li>
                 <li>
-                  <p><span class="i-seq">
-                    <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                    <span class="i-arw">&nbsp;/&nbsp;</span>
-                    <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-                  </span>
-                  = Greater Axle Shot (Backwards)</p>
+                  <p>B / Circle = Greater Axle Shot (Backwards)</p>
                 </li>
               </ul>
             </li>
             <li>
-              <p>In Greater Unleash, the Kick switching to the <span class="i-seq">
-                <img src="README_assets/Xbox_button_X.svg" class="f-btn" alt="X">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_S.svg" class="f-btn" alt="Square">
-              </span>
-               button is pretty much prevent spamming the <span class="i-seq">
-                <img src="README_assets/Xbox_button_B.svg" class="f-btn" alt="B">
-                <span class="i-arw">&nbsp;/&nbsp;</span>
-                <img src="README_assets/PlayStation_button_C.svg" class="f-btn" alt="Circle">
-               </span>
-              button for the same move—since both G-Unleash Kick &amp; G-Axle Shot lead to a backwards outcome, it's better to let you experience the speeds of the Greater Unleash State sooner w/ a Sped Up Axle Homing Shot.</p>
+              <p>In Greater Unleash, the Kick switching to the X / Square button is pretty much prevent spamming the B / Circle button for the same move—since both G-Unleash Kick &amp; G-Axle Shot lead to a backwards outcome, it's better to let you experience the speeds of the Greater Unleash State sooner w/ a Sped Up Axle Homing Shot.</p>
             </li>
             <li>
               <p>If you manage to maintain Greater Unleash when the Unleash Meter runs out, you'll be in a state similar to the activatable Team Blast in <u>
