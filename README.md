@@ -2,7 +2,7 @@
 
 ![](README_assets/d9f93d49857c56f1b30056b97689467a677b525c.png)
 
-The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made within <u>***Foreign Input System***</u>—which focused on expanding the combo capabilities of the Werehog. These two elements are showcased with the **Ricochet System** & **Axle Traversal System** respectively: the former leading to pinball-esque attacks, and the latter leading to a different means of on-field & in-combat traversal.
+The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made within <u>***Foreign Input System***</u>—which focused on expanding the combo capabilities of the Werehog. These two elements are showcased with the **Ricochet System** & **Traversal System** respectively: the former leading to pinball-esque attacks, and the latter leading to a different means of on-field & in-combat traversal.
 
 <div>
   <figcaption>
@@ -12,12 +12,12 @@ The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made 
 
 ## If you wish to see MORE details on this subsystem of FIS...
 
-Be sure to visit the website!
+Be sure to visit the website below!
 
-[FIS - The Axle Shot Network](https://cooliniau.github.io/AxleShotNetwork/)
+[Foreign Input System for SONIC UNLEASHED - The Axle Shot Network](https://cooliniau.github.io/AxleShotNetwork/)
 
 <div>
-    <a href="https://cooliniau.github.io/AxleShotNetwork/"><img src="README_assets/ASN-Logo_HTMLCover.jpg" width="427" height="240etwork Cover"></img></a>
+    <a href="https://cooliniau.github.io/AxleShotNetwork/"><img src="README_assets/ASN-Logo_HTMLCover.jpg" width="640" height="360" alt="Axle Shot Network Cover"></img></a>
 </div>
 
 
