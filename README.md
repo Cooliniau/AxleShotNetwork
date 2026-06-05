@@ -16,10 +16,15 @@ The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made 
 
 ---
 
-## If you wish to see the deets on "Axle Shot Network"...
+## If you wish to see MORE details on this subsytem...
 
 Be sure to visit the website!
-https://cooliniau.github.io/AxleShotNetwork/
+
+[FIS - The Axle Shot Network](https://cooliniau.github.io/AxleShotNetwork/)
+
+<div>
+    <a href="https://cooliniau.github.io/AxleShotNetwork/"><img src="README_assets/ASN-Logo_HTMLCover.jpg" alt="Axle Shot Network Cover"></img></a>
+</div>
 
 
 
