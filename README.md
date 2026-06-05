@@ -14,7 +14,7 @@ The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made 
   </figcaption>
 </div>
 
-## If you wish to see MORE details on this subsytem...
+## If you wish to see MORE details on this subsystem of FIS...
 
 Be sure to visit the website!
 
@@ -26,14 +26,10 @@ Be sure to visit the website!
 
 
 
-Other than that—<u>***have a blast "logging into" the Axle Shot Network***</u>. - ini
+## Related Links
 
-<img title="" src="README_assets/95775ea338771a148428452f33ea87e959797b67.webp" alt="" data-align="center">
-
----
-
-<img title="" src="README_assets/87f382bd092282afb47f8368bb415fe7d6e288d4.webp" alt="" data-align="center">
-
----
-
-<img title="" src="README_assets/8debca52b688dd9f34a2efa7ac09fd923f5b5b89.webp" alt="" data-align="center">
+- <strong>Foreign Input System, for SONIC UNLEASHED:</strong>
+  
+  - Recompiled: [Foreign Input System (Recompiled) Mod for Unleashed Recompiled | UR Mods](https://gamebanana.com/mods/581483)
+  
+  - Console: [Foreign Input System (Console Edition) Mod for Sonic Unleashed (X360/PS3) | SUHD Mods](https://gamebanana.com/mods/504230)
