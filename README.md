@@ -1,6 +1,12 @@
 # **<u>The Axle Shot Network</u>, by ini of Cooliniau**
 
-![](README_assets/d9f93d49857c56f1b30056b97689467a677b525c.png)
+<div>
+    <img src="README_assets/e4e47f69185699039408f8479f000ab68e02d173.png" alt="The Axle Shot Network - Day"></img>
+</div>
+
+<div>
+    <img src="README_assets/d9f93d49857c56f1b30056b97689467a677b525c.png" alt="The Axle Shot Network - Night"></img>
+</div>
 
 The Axle Shot Network (ASN) is an *offensive & evasive mobility subsystem* made within <u>***Foreign Input System***</u>—which focused on expanding the combo capabilities of the Werehog. These two elements are showcased with the **Ricochet System** & **Traversal System** respectively: the former leading to pinball-esque attacks, and the latter leading to a different means of on-field & in-combat traversal.
 
@@ -19,8 +25,6 @@ Be sure to visit the website below!
 <div>
     <a href="https://cooliniau.github.io/AxleShotNetwork/"><img src="README_assets/ASN-Logo_HTMLCover.jpg" width="640" height="360" alt="Axle Shot Network Cover"></img></a>
 </div>
-
-
 
 ## Related Links
 
